@@ -1,6 +1,8 @@
 # miSteganoLib by thunsupay
-Herramienta para las prácticas con las técnicas esteganográficas y el estegoanálisis.
-Master Ciberseguridad - Módulo 01 - Criptografía
+<h2> Master Ciberseguridad - Módulo 01 - Criptografía </h2>
+<hr>
+Herramienta para las prácticas con las técnicas esteganográficas y el estegoanálisis.<br>
+
 
 Procesos implementados:
 
