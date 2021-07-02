@@ -1,6 +1,6 @@
 # miSteganoLib by thunsupay
 
-Herramienta para las prácticas con las técnicas esteganográficas y el estegoanálisis.<br><br>
+Herramienta para las prácticas de las técnicas esteganográficas.<br><br>
 
 Procesos implementados:<br><br>
 
